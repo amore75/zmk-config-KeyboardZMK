@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield:KeyboardZMK_left
+    shield: KeyboardZMK_left
   - board: nice_nano_v2
-    shield:KeyboardZMK_right
+    shield: KeyboardZMK_right
