@@ -20,11 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: lily58_left
+    shield:KeyboardZMK_left
   - board: nice_nano_v2
-    shield: lily58_right
-include:
-  - board: nice_nano_v2
-    shield: lily58_left
-  - board: nice_nano_v2
-    shield: lily58_right
+    shield:KeyboardZMK_right
